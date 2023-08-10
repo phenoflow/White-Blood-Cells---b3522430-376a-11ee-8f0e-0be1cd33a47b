@@ -1,0 +1,17 @@
+code,system
+42H..00,readv2
+42H7.00,readv2
+42H8.00,readv2
+42HZ.00,readv2
+42H..11,readv2
+42H..12,readv2
+42H1.00,readv2
+42H5.00,readv2
+42H2.00,readv2
+42H2.11,readv2
+D400A00,readv2
+42H3.00,readv2
+42H3.11,readv2
+D40y.11,readv2
+D40y.12,readv2
+D40yz11,readv2
